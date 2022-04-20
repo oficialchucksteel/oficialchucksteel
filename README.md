@@ -2,7 +2,7 @@
 - 👀  Tenho 17 anos e adoro programar!
 - 🌱  Gosto de colaborar com a comunidade.
 - 💞️  Estou sempre disposto a apreender, e a inovar-me.
-- 📫  Sou desenvolvedor front-end e atualmente estou estudando tecnologias back-end!
+- 📫  Atualmente estou estudando para ser um desenvolvedor Full Stack de Top!
 
 <!---
 oficialchucksteel/oficialchucksteel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
